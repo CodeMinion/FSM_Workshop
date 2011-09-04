@@ -1,7 +1,7 @@
 /*************************************************************************
  * SIG-Games Workshop
  * 
- * Main Topic: Finite State Machines
+ * Main Topics: Finite State Machines
  * Sub Topics: Singleton Design Pattern
  *             State Design Pattern
  * 
