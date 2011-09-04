@@ -1,0 +1,3 @@
+﻿Implement:
+BaseState.cs - Base Structure for the states.
+StateMachine.cs - Class to support the finite state machine.
