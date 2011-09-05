@@ -2,8 +2,8 @@
  * SIG-Games Workshop
  * 
  * Main Topics: Finite State Machines
- * Sub Topics: Singleton Design Pattern
- *             State Design Pattern
+ * Sub Topics:  Singleton Design Pattern
+ *              State Design Pattern
  * 
  * Purpose: The main goal of this workshop is to introduce finite state 
  *          machines (FSM) and demonstrated how they can be applied in 
